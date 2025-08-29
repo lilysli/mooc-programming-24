@@ -7,3 +7,4 @@ class Pet:
 def new_pet(name: str, species: str, year_of_birth: int) -> Pet:
     return Pet(name, species, year_of_birth)
     
+    
